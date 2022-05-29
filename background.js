@@ -1,4 +1,4 @@
-const DEFAULT_STATE = true;
+const DEFAULT_STATE = false;
 const SHORTCUT_CMD = "toggle_btn";
 
 // Active State
